@@ -1,66 +1,61 @@
 # Cybersecurity Portfolio
 
-Welcome to my Cybersecurity Portfolio!
+Hi, I'm Mosa, a Computer Science student with a growing interest in cybersecurity, particularly ethical hacking and penetration testing.
 
-Hi, I'm Mosa, a Computer Science student with a growing interest in cybersecurity. This repository documents my learning journey through university studies, hands-on labs, personal projects, and practical cybersecurity exercises.
+This repository documents my journey as I develop practical cybersecurity knowledge and skills through structured learning, hands-on exercises, labs and personal projects.
 
 ## About This Portfolio
 
 The purpose of this portfolio is to:
-- Develop practical cybersecurity skills.
-- Apply concepts learned at university.
-- Document projects and hands-on labs.
-- Build a professional portfolio for future career opportunities.
 
-## Current Skills
+- Build a strong foundation in cybersecurity.
+- Develop practical technical skills.
+- Apply concepts learned through university studies and independent learning.
+- Document learning notes, hands-on labs and projects.
+- Track my progress towards a career in cybersecurity.
+
+## Learning in Progress
+
+The topics I am currently exploring include:
+
+- Cybersecurity Fundamentals
 - Networking Fundamentals
-- Operating Systems
-
-## Currently Learning
-- Git & GitHub
-- Linux
-- Wireshark
-- Python for Cybersecurity
+- Git and GitHub
 
 ## Portfolio Structure
 
-📁 Networking  
+### Cybersecurity Fundamentals
+- Introduction to Cybersecurity
+- The CIA Triad
+- Types of Hackers
+- Ethical Hacking Fundamentals
+
+### Networking
+- Networking Fundamentals
 - IP Addressing
 - Subnetting
 - TCP/IP
-- DNS
-- DHCP
+- DNS and DHCP
 
-📁 Operating Systems  
-- Windows
+## Future Learning Goals
+
+As I progress, I plan to explore:
+
 - Linux Fundamentals
+- Operating Systems
+- Network Analysis with Wireshark
+- Python for Cybersecurity
+- Ethical Hacking and Penetration Testing
+- Vulnerability Assessment
+- Hands-on Cybersecurity Labs
+- Practical Security Projects
 
-📁 Linux  
-- Linux Commands
-- File Management
-- Permissions
+## Career Goals
 
-📁 Python  
-- Python Basics
-- Cybersecurity Scripts
+My goal is to develop the knowledge and practical experience needed to pursue opportunities in cybersecurity, with a particular interest in ethical hacking and penetration testing.
 
-📁 TryHackMe  
-- Room Write-ups
-- Lessons Learned
+I aim to continuously improve my skills, document my progress and build a portfolio that demonstrates my practical understanding of cybersecurity.
 
-📁 Projects  
-- Hands-on cybersecurity projects
-- Network analysis
-- Security tools
+---
 
-📁 Notes  
-- Study notes
-- Concepts and summaries
-
-## Goals
-- Build a strong cybersecurity foundation.
-- Complete practical labs and projects.
-- Continuously improve technical skills.
-- Prepare for a career in cybersecurity.
-
-"Learning by doing, one project at a time."
+*Learning by doing, one project at a time.*
